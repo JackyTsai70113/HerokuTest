@@ -53,3 +53,14 @@ D:\ASP.NET Core Web App\HerokuContainer\Colors.API\obj\Debug\netcoreapp3.0\Color
 D:\ASP.NET Core Web App\HerokuContainer\Colors.API\obj\Debug\netcoreapp3.0\Colors.API.csproj.CopyComplete
 D:\ASP.NET Core Web App\HerokuContainer\Colors.API\obj\Debug\netcoreapp3.0\Colors.API.dll
 D:\ASP.NET Core Web App\HerokuContainer\Colors.API\obj\Debug\netcoreapp3.0\Colors.API.pdb
+D:\ASP.NET Core Web App\HerokuContainer\Colors.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ASP.NET Core Web App\HerokuContainer\Colors.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\ASP.NET Core Web App\HerokuContainer\Colors.API\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ASP.NET Core Web App\HerokuContainer\Colors.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASP.NET Core Web App\HerokuContainer\Colors.API\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+D:\ASP.NET Core Web App\HerokuContainer\Colors.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\ASP.NET Core Web App\HerokuContainer\Colors.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\ASP.NET Core Web App\HerokuContainer\Colors.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.NET Core Web App\HerokuContainer\Colors.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.NET Core Web App\HerokuContainer\Colors.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.NET Core Web App\HerokuContainer\Colors.API\obj\Debug\netcoreapp3.0\Colors.API.MvcApplicationPartsAssemblyInfo.cs
